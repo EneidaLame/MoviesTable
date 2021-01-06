@@ -1,0 +1,40 @@
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe.config
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.exe
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.dll
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.dll
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.dll
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csproj.CopyComplete
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe.config
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csprojAssemblyReference.cache
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csproj.CopyComplete
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.exe
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe.config
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.exe
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\ConsoleApp145.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Entities.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Services.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\bin\Debug\Movie.Database.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csprojAssemblyReference.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csproj.CoreCompileInputs.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.csproj.CopyComplete
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.exe
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\ConsoleApp145\obj\Debug\ConsoleApp145.pdb

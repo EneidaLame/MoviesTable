@@ -1,0 +1,25 @@
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.dll
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.dll
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csproj.CopyComplete
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.dll
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csprojAssemblyReference.cache
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csproj.CopyComplete
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\bin\Debug\Movie.Database.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\bin\Debug\Movie.Entities.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csprojAssemblyReference.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csproj.CoreCompileInputs.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.csproj.CopyComplete
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Database\obj\Debug\Movie.Database.pdb

@@ -1,0 +1,16 @@
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.dll
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.pdb
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.dll
+C:\Users\hecto\source\repos\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\c#\ConsoleApp145\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\bin\Debug\Movie.Entities.pdb
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.csprojAssemblyReference.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.csproj.CoreCompileInputs.cache
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.dll
+E:\Computing\Year1\Second Semester\Object Oriented Programming\ConsoleApp145\Movie.Entities\obj\Debug\Movie.Entities.pdb
